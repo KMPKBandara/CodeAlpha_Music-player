@@ -16,12 +16,6 @@ Music Player is a simple web-based application built using HTML, CSS, and JavaSc
 
 To use this Music Player locally, clone the repository and open the `index.html` file in your web browser.
 
-```bash
-git clone https://github.com/yourusername/Music-player.git
-cd Music-player
-open index.html
-```
-
 ## Usage
 
 1. Play/Pause: Click the play button to start the music. Click it again to pause.
