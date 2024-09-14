@@ -1,4 +1,4 @@
-# CodeAlpha_Music-player
+# Music-player
 
 ## Overview
 
